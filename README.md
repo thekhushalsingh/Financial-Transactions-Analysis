@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🔗 Dataset Source
-**Kaggle Dataset:** [Financial Analytics Dataset](https://www.kaggle.com/datasets/caixabanktech/financial-analytics-dataset)
+**Kaggle Dataset:** [Financial Analytics Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 
 ---
 
@@ -378,3 +378,4 @@ Launch Jupyter Notebook:
 
 ### Jupyter Notebook
 Execution: Open notebook.ipynb and run all cells to reproduce the analysis.
+
