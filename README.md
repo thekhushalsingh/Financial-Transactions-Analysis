@@ -12,7 +12,27 @@
 **Kaggle Dataset:** [Financial Analytics Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 
 ---
+🚀 Overview
 
+### This project demonstrates a complete Data Analyst + Machine Learning workflow built using a real-world financial dataset from Kaggle.
+
+* You will find:
+
+* Data Loading & Cleaning
+
+* Merging multiple relational datasets
+
+* Exploratory Data Analysis (EDA)
+
+* Feature Engineering
+
+* Fraud Insight Analysis
+
+* Machine Learning Models
+
+* Model Evaluation & Interpretation
+
+** This project is ideal for Data Analyst / ML Engineer portfolios, internships, and interviews. **
 ## 📘 Table of Contents
 - [Project Overview](#-project-overview)
 - [Features](#-features)
@@ -198,5 +218,6 @@ Launch Jupyter Notebook:
 
 ### Jupyter Notebook
 Execution: Open notebook.ipynb and run all cells to reproduce the analysis.
+
 
 
